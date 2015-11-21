@@ -1,0 +1,66 @@
+Game info:
+    Time played (seconds) = 0:0:3.369
+    Length                = 10
+    Time Bonus            = 10
+    >>> Score (capped time bonus)+length = >> 20 <<
+
+Game info:
+    Time played (seconds) = 0:0:2.646
+    Length                = 5
+    Time Bonus            = 5
+    >>> Score (capped time bonus)+length = >> 10 <<
+
+Game info:
+    Time played (seconds) = 0:0:2.257
+    Length                = 5
+    Time Bonus            = 5
+    >>> Score (capped time bonus)+length = >> 10 <<
+
+Game info:
+    Time played (seconds) = 0:0:18.749
+    Length                = 5
+    Time Bonus            = 5
+    >>> Score (capped time bonus)+length = >> 10 <<
+
+Game info:
+    Time played (seconds) = 0:2:24.915
+    Length                = 15
+    Time Bonus            = 15
+    >>> Score (capped time bonus)+length = >> 30 <<
+
+Game info:
+    Time played (seconds) = 0:0:13.529
+    Length                = 10
+    Time Bonus            = 10
+    >>> Score (capped time bonus)+length = >> 20 <<
+
+Game info:
+    Time played (seconds) = 0:0:2.819
+    Length                = 5
+    Time Bonus            = 5
+    >>> Score (capped time bonus)+length = >> 10 <<
+
+Game info:
+    Time played (seconds) = 0:0:14.566
+    Length                = 20
+    Time Bonus            = 20
+    >>> Score (capped time bonus)+length = >> 40 <<
+
+Game info:
+    Time played (seconds) = 0:1:17.162
+    Length                = 35
+    Time Bonus            = 35
+    >>> Score (capped time bonus)+length = >> 70 <<
+
+Game info:
+    Time played (seconds) = 0:0:6.160
+    Length                = 10
+    Time Bonus            = 10
+    >>> Score (capped time bonus)+length = >> 20 <<
+
+Game info:
+    Time played (seconds) = 0:0:39.602
+    Length                = 60
+    Time Bonus            = 39
+    >>> Score (capped time bonus)+length = >> 99 <<
+
